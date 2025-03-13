@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barnik Chakraborty</h1>
 <h3 align="center">A passionate Electronics and Computer Science enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Sass, ReactJS**
+- 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rebellion-167?tab=repositories](https://github.com/Rebellion-167?tab=repositories)
 
